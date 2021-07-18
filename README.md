@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Manuel :punch:
 
-<!--
-**Manu200476/Manu200476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Manuel Presentacion](images/manu.png)
 
-Here are some ideas to get you started:
+I am 17 years old and I am from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but mainly I am dedicated to SEO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Technical SEO :hammer:
+- Vue JS and React :hearts:
+- Web Performance :computer:
+- Learning about Data Science :chart_with_upwards_trend:
+- Currently working as a freelance
+
+## Some fancy facts
+
+- Muay Thai and Powerlifting :hearts:
+- Love reading :blue_book:
+- Learning new lenguages :mortar_board:
+
+## You can find me
+
+:link: [Twitter](https://twitter.com/Manu_200476)
+
+:link: Working on my personal website
+
+
