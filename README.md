@@ -1,6 +1,6 @@
 # Hi, I'm Manuel :punch:
 
-![Manuel Presentacion](./manu.png)
+![Manuel Presentacion](./manu.jpg)
 
 I am 17 years old and I am from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but mainly I am dedicated to SEO
 
