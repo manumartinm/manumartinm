@@ -10,7 +10,7 @@ I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I cod
 - Learning about Data Science :chart_with_upwards_trend:
 - Currently working as a freelance
 
-<a href="./manu-cv.pdf" download>Click to Download CV</a>
+[See My CV](./manu-cv.pdf)
 
 ## Some fancy facts
 
