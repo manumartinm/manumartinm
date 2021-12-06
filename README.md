@@ -10,6 +10,8 @@ I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I cod
 - Learning about Data Science :chart_with_upwards_trend:
 - Currently working as a freelance
 
+[Download CV](./manu-cv.pdf)
+
 ## Some fancy facts
 
 - Muay Thai and Powerlifting :hearts:
