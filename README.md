@@ -2,7 +2,7 @@
 
 ![Manuel Presentacion](./manu.jpg)
 
-I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but principally I do SEO in my own projects and also in other peoples's projects
+I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but principally I do SEO in my own projects and also in other people projects
 
 - Technical SEO :hammer:
 - Vue JS and React :hearts:
@@ -25,5 +25,9 @@ I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I cod
 :link: [My Personal Website](https://manuelmartin.me/)
 
 :link: [Linkedin](https://www.linkedin.com/in/manudev200476/)
+
+## Github Stats
+
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu200476&show_icons=true&theme=nightowl)
 
 
