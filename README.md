@@ -2,7 +2,7 @@
 
 ![Manuel Presentacion](./manu.jpg)
 
-I am 17 years old boy from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but principally I do SEO in my own projects and also in other people projects
+I am boy from Spain :es:, I love **JavaScript** and sometimes I code in **Python**, but principally I do SEO in my own projects and also in other people projects
 
 - Technical SEO :hammer:
 - Vue JS and React :hearts:
