@@ -1,7 +1,5 @@
 ## Hello, I'm Manuel! :punch:
 
-![Manuel Presentacion](./info.jpg)
-
 I’m a passionate **Data Scientist** and **AI Enthusiast** from Spain 🇪🇸 with a diverse background in **Marketing**, **Development**, **Data Engineering**, and **Entrepreneurship**. My journey in these fields began in 2015-2016, and since then, I've had the privilege of working on various projects as a consultant while building my own side projects and startups.
 
 Currently, I’m a partner at **Keytrends**, a B2B Content Marketing SaaS, where I lead as the **Head of Data & AI**. In this role, I’m building and leading Data & AI teams, integrating cutting-edge technologies like **RNNs**, **Transformers**, and **CNNs** into our products while closely collaborating with our Product & Design teams.
